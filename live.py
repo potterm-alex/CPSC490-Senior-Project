@@ -11,7 +11,7 @@ from heuristic import *
 from lstm import *
 
 # API key for alphavantage
-APIKEY = 'V3K0CIBQ9YD28BMI'
+APIKEY = 'PUT API KEY HERE'
 
 
 ################
