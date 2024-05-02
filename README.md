@@ -19,7 +19,7 @@ This project was to create an LSTM based stock price prediction model. Some impo
 Data:
 
 The data used for this project came from FirstRateData.com, a data brokerage service. I bought their Stocks Complete (7000+ Tickers)
-bundle. I then used Nasdaq's stock screener to narrow down which stocks I used for training of the model. 
+bundle, which can be found [here](https://firstratedata.com/b/22/stock-complete-historical-intraday). I then used Nasdaq's stock screener to narrow down which stocks I used for training of the model. 
 
 Use Breakdown:
 
