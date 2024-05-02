@@ -1,0 +1,145 @@
+Training chunk [1] on 200B_plus stocks
+
+Start time is 2024-03-27 23:30:18.212033
+Finish time is 2024-03-28 00:29:59.082784
+Took 59.68117918173472 mins, 0.9946863196955786 hours
+
+
+Training chunk [1] on 10B_plus stocks
+
+Start time is 2024-03-28 00:36:14.730738
+Finish time is 2024-03-28 02:19:00.183439
+Took 102.75754501819611 mins, 1.7126257503032685 hours
+
+
+Training chunk [2] on 10B_plus stocks
+
+Start time is 2024-03-28 03:53:27.192238
+Finish time is 2024-03-28 05:39:57.416412
+Took 106.5037362297376 mins, 1.7750622704956267 hours
+
+
+Training chunk [3] on 10B_plus stocks
+
+Start time is 2024-03-28 17:32:40.478864
+Finish time is 2024-03-28 19:20:44.376552
+Took 108.06496146519979 mins, 1.801082691086663 hours
+
+
+Training chunk [4] on 10B_plus stocks
+
+Start time is 2024-03-28 19:52:39.947315
+Finish time is 2024-03-28 21:40:23.410699
+Took 107.724389731884 mins, 1.7954064955314 hours
+
+
+Training chunk [5] on 10B_plus stocks
+
+Start time is 2024-03-28 21:41:32.234259
+Finish time is 2024-03-28 23:30:02.031294
+Took 108.49661724964777 mins, 1.8082769541607961 hours
+
+
+Training chunk [6] on 10B_plus stocks
+
+Start time is 2024-03-29 07:08:37.238612
+Finish time is 2024-03-29 08:57:50.477661
+Took 109.22065081596375 mins, 1.8203441802660625 hours
+
+
+Training chunk [7] on 10B_plus stocks
+
+Start time is 2024-03-29 11:49:04.201429
+Finish time is 2024-03-29 13:35:28.894555
+Took 106.41155209938685 mins, 1.7735258683231143 hours
+
+
+Training chunk [8] on 10B_plus stocks
+
+Start time is 2024-03-29 13:45:21.105573
+Finish time is 2024-03-29 15:36:17.315013
+Took 110.93682399988174 mins, 1.8489470666646957 hours
+
+
+Training chunk [9] on 10B_plus stocks
+
+Start time is 2024-03-29 19:49:32.219203
+Finish time is 2024-03-29 21:10:16.906101
+Took 80.74478163321812 mins, 1.3457463605536355 hours
+
+
+Training chunk [1] on 2B_plus stocks
+
+Start time is 2024-03-29 21:33:07.115662
+Finish time is 2024-03-29 23:15:58.406448
+Took 102.85484643379847 mins, 1.714247440563308 hours
+
+
+Training chunk [2, 3, 4] on 2B_plus stocks
+
+Start time is 2024-03-29 23:23:18.986193
+Finish time is 2024-03-30 04:17:35.668708
+Took 294.27804191907245 mins, 4.904634031984541 hours
+
+
+Training chunk [5] on 2B_plus stocks
+
+Start time is 2024-03-30 07:01:07.994475
+Finish time is 2024-03-30 08:44:06.660591
+Took 102.97776859998703 mins, 1.7162961433331172 hours
+
+
+Training chunk [6] on 2B_plus stocks
+Start time is 2024-03-30 23:01:08.39939
+Finish time is 2024-03-30 00:41:58.660591
+Took 100.70323763291042 mins, 1.6783872938818403 hours
+
+
+Training chunk [7, 8, 9] on 2B_plus stocks
+
+Start time is 2024-03-31 01:12:47.074075
+Finish time is 2024-03-31 06:14:53.656849
+Took 302.10971289873123 mins, 5.035161881645521 hours
+
+
+Training chunk [10] on 2B_plus stocks
+
+Start time is 2024-03-31 10:01:55.205827
+Finish time is 2024-03-31 11:45:25.345033
+Took 103.50232009887695 mins, 1.725038668314616 hours
+
+
+Training chunk [11, 12, 13] on 2B_plus stocks
+
+Start time is 2024-03-31 12:03:26.941861
+Finish time is 2024-03-31 17:34:16.599924
+Took 330.8276343782743 mins, 5.513793906304572 hours
+
+
+Training chunk [14, 15, 16] on 2B_plus stocks
+
+Start time is 2024-03-31 17:47:27.525169
+Finish time is 2024-03-31 22:38:50.166698
+Took 291.3773588180542 mins, 4.856289313634236 hours
+
+
+Training chunk [17] on 2B_plus stocks
+Start time is 2024-03-30 22:01:08.39939
+Finish time is 2024-03-30 23:41:58.660591
+Took 100.70323763291042 mins, 1.6783872938818403 hours
+
+
+Training chunk [18, 19, 20] on 2B_plus stocks
+
+Start time is 2024-04-01 00:00:35.862420
+Finish time is 2024-04-01 05:03:08.412701
+Took 302.5425046801567 mins, 5.042375078002611 hours
+
+
+Training chunk [21] on 2B_plus stocks
+
+Start time is 2024-04-01 11:57:46.529248
+Finish time is 2024-04-01 12:23:44.443573
+Took 25.965238749980927 mins, 0.4327539791663488 hours
+
+
