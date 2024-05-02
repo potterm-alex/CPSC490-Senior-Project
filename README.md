@@ -1,6 +1,5 @@
 # Yale Computer Science - CPSC490 - Senior Project
-### Alex Potter, Yale '24
-### Advised by Stephen Slade
+##### Alex Potter, Yale '24 - Advised by Stephen Slade
 
 Welcome! 
 This is my senior project that I completed for my BS in Computer Science whilst finishing my last semester at Yale. 
