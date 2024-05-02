@@ -4,7 +4,7 @@
 Welcome! 
 This is my senior project that I completed for my BS in Computer Science whilst finishing my last semester at Yale. 
 
-Intro:
+### Intro:
 
 This project was to create an LSTM based stock price prediction model. Some important things to know are:
 1. It uses a single layer LSTM model, with 48 neurons in the hidden layer. 
@@ -15,11 +15,11 @@ This project was to create an LSTM based stock price prediction model. Some impo
 6. Pyplot was used for plotting
 7. We also used sklearn's MixMaxScaler for data scaling
 
-Data:
+### Data:
 
 The data used for this project came from FirstRateData.com, a data brokerage service. I bought their Stocks Complete (7000+ Tickers)
 bundle, which can be found [here](https://firstratedata.com/b/22/stock-complete-historical-intraday). I then used Nasdaq's stock screener to narrow down which stocks I used for training of the model. 
 
-Use Breakdown:
+### Use Breakdown:
 
 To use the model, 
